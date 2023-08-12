@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bmi_calculator">BMI Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="height_in_cm">Height (in cm)</string>
+    <string name="weight_in_kg">Weight (in kg)</string>
+    <string name="text_bmi">Body mass index (BMI) is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m2, resulting from mass in kilograms and height in metres.</string>
+    <string name="textview">TextView</string>
+</resources>
